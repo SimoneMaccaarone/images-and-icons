@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100 " width="500" height="500">
+    
+    <!-- <polygon points="<60 100 60 547 342  44 331  23 >" stroke="blue" fill="transparent" stroke-width="5" /> -->
+
+<circle r="10" cx="50" cy="50" stroke="blu" fill="blue" />
+<polygon stroke="blue" fill="transparent" points=" 80 50     50 20      20 50      50 80     " />
+<line stroke="blue"  x1="30" x2="30" y1="20" y2="80" />
+<line stroke="blue"  x1="70" x2="70" y1="20" y2="80" />
+
+
+
+
+
+
+
+
+
+      stroke="orange" fill="transparent" stroke-width="5"/>
+      <rect width="500" height="500" stroke="black" fill="transparent" />
+</svg>
+
+
+
+
+    <!-- <circle cx="51" cy=" 51" r="30" stroke="green" fill="transparent" stroke-width="5" />
+    <line x1="10" x2="91" y1="51" y2="51" stroke="green" />
+    <line x1="51" x2="51" y1="10" y2="91" stroke="green"  /> -->
